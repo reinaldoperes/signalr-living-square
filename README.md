@@ -4,7 +4,7 @@
 - SignalR from Microsoft C#
 - JQuery
 
-> You have to install the packages from SignalR in folder packages
+> You have to install the packages from SignalR in packages.config
 
 > Open 1+ browsers with the localhost after start the project
 
